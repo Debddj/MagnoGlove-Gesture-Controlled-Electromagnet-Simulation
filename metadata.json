@@ -1,0 +1,5 @@
+{
+  "name": "MagnoGlove: Gesture Controlled Electromagnet",
+  "description": "A 3D simulation of an electromagnetic glove controlled by hand gestures using computer vision.",
+  "requestFramePermissions": ["camera"]
+}
